@@ -46,6 +46,7 @@ RTL realization
 
 ### Output:
 ### RTL
+### TIMING DIAGRAM
 
 
 ### TRUTH TABLE 
